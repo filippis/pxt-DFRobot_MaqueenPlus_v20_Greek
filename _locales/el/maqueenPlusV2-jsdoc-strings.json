@@ -1,0 +1,20 @@
+{
+    "maqueenPlusV2": "",
+    "maqueenPlusV2.I2CInit": "Αρχικοποίηση I2C μέχρι να επιτύχει",
+    "maqueenPlusV2.controlMotor": "Έλεγχος της μονάδας κινητήρα για λειτουργία",
+    "maqueenPlusV2.controlMotorStop": "Έλεγχος της μονάδας κινητήρα για διακοπή λειτουργίας",
+    "maqueenPlusV2.controlLED": "Έλεγχος των διακοπτών LED αριστερά και δεξιά",
+    "maqueenPlusV2.readLineSensorState": "Λήψη της κατάστασης του αισθητήρα ακολούθησης γραμμής. Επιστρέφει 0 όταν το αυτοκίνητο είναι σε λευκό χαρτί, επιστρέφει 1 όταν είναι στον αέρα/σε μαύρο χαρτί",
+    "maqueenPlusV2.readLineSensorData": "Λήψη των δεδομένων ADC του αισθητήρα ακολούθησης γραμμής",
+    "maqueenPlusV2.readUltrasonic": "Λήψη δεδομένων από τον αισθητήρα υπερήχων (CM)",
+    "maqueenPlusV2.readVersion": "Λήψη του αριθμού έκδοσης",
+    "maqueenPlusV2.rgb": "Ορισμός τριών βασικών χρωμάτων: κόκκινο, πράσινο, μπλε",
+    "maqueenPlusV2.ledRange": "Φώτα RGB, από την αρχική θέση έως την τελική θέση",
+    "maqueenPlusV2.setIndexColor": "Ορισμός του χρώματος του καθορισμένου φωτός LED",
+    "maqueenPlusV2.showColor": "Ορισμός του χρώματος όλων των φώτων RGB",
+    "maqueenPlusV2.setBrightness": "Ορισμός της φωτεινότητας των φώτων RGB",
+    "maqueenPlusV2.ledBlank": "Απενεργοποίηση όλων των φώτων RGB",
+    "maqueenPlusV2.ledRainbow": "Τα φώτα RGB εμφανίζουν χρώματα ουράνιου τόξου",
+    "maqueenPlusV2.intersectionDetecting": "Τιμή επιστροφής: 1 είναι διασταύρωση, 2 είναι διασταύρωση αριστερής και δεξιάς στροφής (διασταύρωση Τ), 3 είναι διασταύρωση αριστερής στροφής και ευθείας, 4 είναι διασταύρωση δεξιάς στροφής και ευθείας",
+    "maqueenPlusV2.readRealTimeSpeed": "Μονάδα τιμής επιστροφής: εκατοστά ανά δευτερόλεπτο (cm/s)"
+}
